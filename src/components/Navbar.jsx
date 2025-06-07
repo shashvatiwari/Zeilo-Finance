@@ -48,7 +48,7 @@ const Navbar = () => {
                 >
                     <div className="relative inline-block">
                         <img
-                            src="./src/assets/zeilo-org.png"
+                            src="/assets/zeilo-org.png"
                             alt="Zeilo Finance Logo"
                             className="w-10 h-10 sm:w-12 sm:h-12 object-contain"
                         />

@@ -35,7 +35,7 @@ const SplashScreen = () => {
                         className="flex flex-col items-center"
                     >
                         <img
-                            src="./src/assets/zeilo-org.png"
+                            src="/assets/zeilo-org.png"
                             alt="Zeilo Finance Logo"
                             className="w-32 h-32 object-contain"
                         />

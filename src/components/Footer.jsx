@@ -7,7 +7,7 @@ const Footer = () => {
                 <div>
                     <div className="flex items-center mb-6">
                         <img
-                            src="./src/assets/zeilo-org.png"
+                            src="/assets/zeilo-org.png"
                             alt="Zeilo Finance Logo"
                             className="w-16 h-16 object-contain"
                         />
