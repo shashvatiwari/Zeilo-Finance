@@ -14,7 +14,7 @@ const ServicesSection = () => {
             icon: <FaHandHoldingUsd className="text-4xl text-blue-600" />,
             title: "Micro Loan",
             shortDescription: "Small loans for immediate personal needs with quick approval",
-            image: "https://images.unsplash.com/photo-1606406054219-619c4c2e2100?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+            image: "https://media.licdn.com/dms/image/v2/C5612AQH6ULz-O9Mb5g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520134161484?e=2147483647&v=beta&t=sW3eUC4x-wO9ezBXI1dXG85Ajps6a4mcFFykDJmCq2U",
             details: [
                 "Helping underserved communities with micro-financing solutions",
                 "Loans from ₹5,000 to ₹50,000 with flexible repayment",
@@ -33,9 +33,9 @@ const ServicesSection = () => {
             icon: <FaBusinessTime className="text-4xl text-blue-600" />,
             title: "Micro Business Loan",
             shortDescription: "Fuel your entrepreneurial dreams with our tailored solutions",
-            image: "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+            image: "https://media.istockphoto.com/id/1413204314/photo/happy-man-at-supermarket-store.jpg?s=612x612&w=0&k=20&c=Dn5UI46Z6UmBx2n9kYg56jObHBYoQtxcLjS5ukEuXCE=",
             details: [
-                "Funding from ₹50,000 to ₹5,00,000 for small businesses",
+                "Funding from ₹10,000 to ₹1,50,000 for small businesses",
                 "Working capital and equipment financing available",
                 "Customized repayment plans matching your cash flow",
                 "Mentorship and business development support",

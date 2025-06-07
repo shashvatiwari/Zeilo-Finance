@@ -38,7 +38,7 @@ const Navbar = () => {
     return (
         <motion.nav
             style={{ background, boxShadow: shadow }}
-            className="fixed w-full z-50 py-3 px-4 sm:py-4 sm:px-6 lg:px-16 transition-all duration-300"
+            className="fixed w-full z-50 py-2 px-4 sm:py-3 sm:px-6 lg:px-16 transition-all duration-300"
         >
             <div className="flex justify-between items-center max-w-7xl mx-auto">
                 <motion.div
