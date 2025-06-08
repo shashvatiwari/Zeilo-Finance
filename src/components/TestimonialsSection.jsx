@@ -8,7 +8,7 @@ const TestimonialsSection = () => {
             quote: "The loan process was incredibly smooth and transparent. I got my personal loan approved within 24 hours!",
             name: "Rahul Sharma",
             role: "Software Engineer",
-            image: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=200&q=80"
+            image: "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?semt=ais_hybrid&w=740"
         },
         {
             quote: "As a small business owner, their micro business loan helped me expand my operations at just the right time.",
@@ -37,7 +37,7 @@ const TestimonialsSection = () => {
                     <h2 className="text-3xl md:text-4xl font-bold mb-4">What Our Clients Say</h2>
                     <div className="w-20 h-1 bg-yellow-400 mx-auto mb-6"></div>
                     <p className="text-lg text-blue-100 max-w-3xl mx-auto">
-                        Trusted by thousands of satisfied customers across the country.
+                        Trusted by numerous satisfied customers across the cities.
                     </p>
                 </motion.div>
 

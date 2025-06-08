@@ -14,7 +14,7 @@ const ServicesSection = () => {
             icon: <FaHandHoldingUsd className="text-4xl text-blue-600" />,
             title: "Micro Loan",
             shortDescription: "Small loans for immediate personal needs with quick approval",
-            image: "https://media.licdn.com/dms/image/v2/C5612AQH6ULz-O9Mb5g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1520134161484?e=2147483647&v=beta&t=sW3eUC4x-wO9ezBXI1dXG85Ajps6a4mcFFykDJmCq2U",
+            image: "https://i0.wp.com/apeejay.news/wp-content/uploads/2023/12/61223-Professional-Success-Blog.jpg?resize=740%2C524&ssl=1",
             details: [
                 "Helping underserved communities with micro-financing solutions",
                 "Loans from ₹5,000 to ₹50,000 with flexible repayment",

@@ -47,10 +47,10 @@ const AboutUsSection = () => {
                     >
                         <h3 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6">Who We Are</h3>
                         <p className="text-gray-600 mb-6">
-                            Founded in 2015, LoanPro has grown from a small financial consultancy to one of the most trusted names in loan facilitation and financial services. Our mission is to bridge the gap between financial institutions and borrowers, making the process simpler, faster, and more transparent.
+                            Founded in 2025, Zeilo Finance has grown from a small financial consultancy to one of the most trusted names in loan facilitation and financial services. We refer the best loan, Bank FD, and mutual fund plans from PSU and private sector banks, while also empowering women through inclusive financial access.
                         </p>
                         <p className="text-gray-600 mb-6">
-                            With a team of 50+ financial experts across 10 cities, we've helped over 25,000 customers achieve their financial goals - whether it's buying a dream home, expanding a business, or securing their family's future.
+                            With a team of 10+ financial experts across 2 cities, we've helped lot of customers achieve their financial goals - whether it's buying a dream home, expanding a business, or securing their family's future.
                         </p>
                         <div className="flex flex-wrap gap-4">
                             {/*<motion.button*/}
@@ -134,10 +134,10 @@ const AboutUsSection = () => {
 
                     <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8 text-center">
                         {[
-                            { number: "25,000+", label: "Happy Customers" },
-                            { number: "₹500Cr+", label: "Loans Disbursed" },
-                            { number: "50+", label: "Financial Experts" },
-                            { number: "10+", label: "Cities Across India" }
+                            { number: "200+", label: "Happy Customers" },
+                            { number: "Trusted", label: "Loans Disbursed" },
+                            { number: "10+", label: "Financial Experts" },
+                            { number: "2+", label: "Cities Across India" }
                         ].map((milestone, index) => (
                             <motion.div
                                 key={index}
