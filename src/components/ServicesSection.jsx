@@ -14,7 +14,7 @@ const ServicesSection = () => {
             icon: <FaHandHoldingUsd className="text-4xl text-blue-600" />,
             title: "Micro Loan",
             shortDescription: "Small loans for immediate personal needs with quick approval",
-            image: "https://i0.wp.com/apeejay.news/wp-content/uploads/2023/12/61223-Professional-Success-Blog.jpg?resize=740%2C524&ssl=1",
+            image: "https://media.gettyimages.com/id/1204852703/photo/real-estate-agent-with-client-at-village.jpg?s=612x612&w=0&k=20&c=Beo8_XQXLstHBv5vV6lHCz_jvtKPx26kFLaHuuZFEA4=",
             details: [
                 "Helping underserved communities with micro-financing solutions",
                 "Loans from ₹5,000 to ₹50,000 with flexible repayment",
@@ -33,7 +33,7 @@ const ServicesSection = () => {
             icon: <FaBusinessTime className="text-4xl text-blue-600" />,
             title: "Micro Business Loan",
             shortDescription: "Fuel your entrepreneurial dreams with our tailored solutions",
-            image: "https://media.istockphoto.com/id/1413204314/photo/happy-man-at-supermarket-store.jpg?s=612x612&w=0&k=20&c=Dn5UI46Z6UmBx2n9kYg56jObHBYoQtxcLjS5ukEuXCE=",
+            image: "https://www.theweek.in/content/dam/week/news/india/images/2021/11/19/vijayan-mohana-sanjoy.jpg.transform/schema-16x9/image.jpg",
             details: [
                 "Funding from ₹10,000 to ₹1,50,000 for small businesses",
                 "Working capital and equipment financing available",
